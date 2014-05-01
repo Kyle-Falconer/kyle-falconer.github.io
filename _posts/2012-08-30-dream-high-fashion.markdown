@@ -8,7 +8,7 @@ I was an intern at some high-fashion place where new outfits were sourced and mo
   
 I was sent to go pick out a new fall fashion item for men. I was wholly unprepared for this task and hold little interest in high fashion. Despite this, I was dressed up in a thick, semi-dressy overcoat in an orange-brown hue. It was kinda fun, but I felt ridiculous.
  
-I arrived at my destination. It was a complex housed near the docks, a few blocks from the water. This was the import hub which closely guarded all the imports of the latest clothing from countries all over the world. Inside, I began to joke with the receptionish about how ridiculous I felt wearing the overcoat.
+I arrived at my destination. It was a complex housed near the docks, a few blocks from the water. This was the import hub which closely guarded all the imports of the latest clothing from countries all over the world. Inside, I began to joke with the receptionist about how ridiculous I felt wearing the overcoat.
 
 "Your employer is subject to fees, up to and including import and port of goods fees for the use of our service..."
 
