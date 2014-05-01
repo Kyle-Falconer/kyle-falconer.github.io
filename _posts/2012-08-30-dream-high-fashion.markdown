@@ -2,7 +2,6 @@
 layout: post
 title:  "High Fashion - A Dream"
 date:   2012-08-30 07:28:00
-categories: blog
 ---
 
 I was an intern at some high-fashion place where new outfits were sourced and modified for people with too much money. It was all very "Devil Wears Prada".
