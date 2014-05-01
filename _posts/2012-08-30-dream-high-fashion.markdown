@@ -24,7 +24,7 @@ One of the doors was made of brightly-colored but transparent glass, made up of 
 
 > "Where is Josh!? He's supposed to be Godzilla today!"
  
-A panel which had formerly looked to be a part of the play area's wall creaked open and out stepped Godzilla, only it wasn't Godzilla, it was Josh wearing a Godzilla costume. He was completely out of character for the part, making weak but deliberate steps toward the children. The potential for this magical was getting murdered with every moping step he took.
+A panel which had formerly looked to be a part of the play area's wall creaked open and out stepped Godzilla, only it wasn't Godzilla, it was Josh wearing a Godzilla costume. He was completely out of character for the part, making weak but deliberate steps towards the children. The potential for this magical was getting murdered with every moping step he took.
 
 > "Rawr... I'm going to stomp on this building now... ready? ready? Okay, here I go..." *step*
  
