@@ -14,26 +14,19 @@ I arrived at my destination. It was a complex housed near the docks, a few block
 
 I zoned out as she was talking, beginning to wonder if there even was such a thing as a "port of goods fee".
 
-She stopped talking and glared at me.
-
-	"You couldn't even afford a port of goods fee, could you?"
-
-	"Nope!"
-  
+She stopped talking and glared at me. "You couldn't even afford a port of goods fee, could you?" "Nope!"  
 
 Here I was: a fashion-agnostic person in a place that only cares about fashion, and I was already found out before I even began to look at the goods.
 
 I was given the key to the warehouse and allowed to pass through, into a dark hallway which opened up into a dome-like room with doors labeled according to the contents of the connecting rooms.
 
-One of the doors was made of brightly-colored but transparent glass, made up of varying shades of yellow and green. Inside this room was a play area for children, presumably to keep them entertained while the parents shopped for clothing or whatever else was kept in the complex. Godzilla was being shown on the TV. Godzilla started to stamp out Tokyo and the movie was paused. 
+One of the doors was made of brightly-colored but transparent glass, made up of varying shades of yellow and green. Inside this room was a play area for children, presumably to keep them entertained while the parents shopped for clothing or whatever else was kept in the complex. Godzilla was being shown on the TV. Godzilla started to stamp out Tokyo and the movie was paused. "Anyone see Josh?"
 
-"Anyone see Josh?"
-  
-"Where is Josh!? He's supposed to be Godzilla today!"
+> "Where is Josh!? He's supposed to be Godzilla today!"
  
 A panel which had formerly looked to be a part of the play area's wall creaked open and out stepped Godzilla, only it wasn't Godzilla, it was Josh wearing a Godzilla costume. He was completely out of character for the part, making weak but deliberate steps toward the children. The potential for this magical was getting murdered with every moping step he took.
 
-"Rawr... I'm going to stomp on this building now... ready? ready? Okay, here I go..." *step*
+> "Rawr... I'm going to stomp on this building now... ready? ready? Okay, here I go..." *step*
  
 I was in total disbelief. Had I been in the suit, I'd be tearing the place up and leveling the toy houses and dolls which lay scattered on the floor. Fear and intimidation would be palatable. Therapy would become a way of life for these kids. The destruction and decimation of the terrain would be forever etched in their impressionable minds.
 
