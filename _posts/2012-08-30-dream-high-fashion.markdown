@@ -20,7 +20,7 @@ Here I was: a fashion-agnostic person in a place that only cares about fashion, 
 
 I was given the key to the warehouse and allowed to pass through, into a dark hallway which opened up into a dome-like room with doors labeled according to the contents of the connecting rooms.
 
-One of the doors was made of brightly-colored but transparent glass, made up of varying shades of yellow and green. Inside this room was a play area for children, presumably to keep them entertained while the parents shopped for clothing or whatever else was kept in the complex. Godzilla was being shown on the TV. Godzilla started to stamp out Tokyo and the movie was paused. "Anyone see Josh?"
+One of the doors was made of brightly-colored but transparent glass, made up of varying shades of yellow and green. Inside this room was a play area for children, presumably to keep them entertained while the parents shopped for clothing or whatever else was kept in the complex. Godzilla was being shown on the TV and just then, the towering lizard started his rampage on Tokyo and the movie was paused. "Anyone see Josh?"
 
 > "Where is Josh!? He's supposed to be Godzilla today!"
  
