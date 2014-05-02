@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Update #1, Impressions of India (days 1 and 2 in Bangalore)"
+title:  "India Update #1, Impressions of India (days 1 and 2 in Bangalore)"
 author: Kyle Falconer
 author-google-plus: https://plus.google.com/u/0/+KyleFalconer1
 date:   2013-05-21 07:30:00

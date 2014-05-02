@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Update #5 - Day 1 in Hyderabad"
+title:  "India Update #5 - Day 1 in Hyderabad"
 author: Kyle Falconer
 author-google-plus: https://plus.google.com/u/0/+KyleFalconer1
 date:   2013-05-24 09:30:00
