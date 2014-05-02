@@ -4,14 +4,14 @@ layout: default
 <article class="pure-g-r post" itemscope itemtype="https://schema.org/BlogPosting">
   <h1 class="pure-u-1" itemprop="name">{{ page.title }}</h1>
   <div class="pure-u-1 meta">
-    <p class="author" itemprop="author">
+    <p class="author" itemprop="author">Author: 
     {% if page.author-google-plus %}
       <a href="{{ page.author-google-plus }}?rel=author">{{ page.author }}</a>
     {% else %}
       {{ page.author }}
     {% endif %}
     </p>  
-    <time datetime="{{ page.date }}" itemprop="dateCreated">{{ page.date | date_to_string }}</time>
+    <time datetime="{{ page.date }}" itemprop="dateCreated">Date: {{ page.date | date_to_string }}</time>
     <ul class="tags">
       {% for tag in page.tags %}
         <li>{{ tag }}</li>
