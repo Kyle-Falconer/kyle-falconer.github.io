@@ -1,5 +1,5 @@
 name: Kyle Falconer Codes
 description: Blog site for kylefalconercodes.com
 url: http://blog.kylefalconercodes.com
-markdown: redcarpet
+markdown: kramdown
 pygments: true
