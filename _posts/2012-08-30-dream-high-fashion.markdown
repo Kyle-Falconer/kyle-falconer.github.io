@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "High Fashion - A Dream"
+author: Kyle Falconer
 date:   2012-08-30 07:28:00
 ---
 
