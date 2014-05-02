@@ -2,6 +2,7 @@
 layout: post
 title:  "High Fashion - A Dream"
 author: Kyle Falconer
+author-google-plus: https://plus.google.com/u/0/+KyleFalconer1?rel=author
 date:   2012-08-30 07:28:00
 ---
 
