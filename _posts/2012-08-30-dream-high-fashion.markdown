@@ -2,8 +2,9 @@
 layout: post
 title:  "High Fashion - A Dream"
 author: Kyle Falconer
-author-google-plus: https://plus.google.com/u/0/+KyleFalconer1?rel=author
+author-google-plus: https://plus.google.com/u/0/+KyleFalconer1
 date:   2012-08-30 07:28:00
+tags: [fiction, dream]
 ---
 
 I was an intern at some high-fashion place where new outfits were sourced and modified for people with too much money. It was all very "Devil Wears Prada".
