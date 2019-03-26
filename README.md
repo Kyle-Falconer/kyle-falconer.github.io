@@ -1,6 +1,8 @@
 netinept.github.io
 ==================
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b660ad8-8980-48ce-8979-b5ff222dd3cb/deploy-status)](https://app.netlify.com/sites/blissful-mahavira-094a65/deploys)
+
 Development:
 ------------
 This site uses the `github-pages` gem, which includes [Jekyll](https://jekyllrb.com/) and some other plugins.
