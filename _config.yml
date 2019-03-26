@@ -1,9 +1,15 @@
 name: Kyle Falconer Codes
-description: Blog site for kylefalconercodes.com
-url: http://blog.kylefalconercodes.com
+description: Personal website for Kyle Falconer
+url: http://kylefalconercodes.com
 highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true

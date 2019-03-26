@@ -1,0 +1,32 @@
+html, body{height:100%; width:100%; }
+body {position:absolute; top:0; left:0;}
+body>header {position:relative; top:0; width:100%; overflow:hidden;}
+body>* {padding-left: 10px;padding-right: 10px;}
+
+#siteTitle{font-size: 30px;line-height: 40px;margin: 20px 0 20px 0;font-family:"Ubuntu Mono", Palatino, serif;letter-spacing: 2.2px;}
+
+#site_nav a {display:inline-block; padding:10px; text-decoration:none; color:#3c3c3c; font-size:14px; line-height:14px; border: 1px solid #3c3c3c;-webkit-border-radius: 3px;-moz-border-radius: 3px; border-radius: 3px;text-transform: uppercase;letter-spacing: 1.3px;margin-left: 10px;}
+#site_nav a:first-child{margin-left:0;}
+#site_nav a.selected {background-color:#383838; color:#ffffff;}
+
+.social_links {float: right;position: absolute;top: 10px;right: 0px;}
+.social_links a{display:block;float:left;margin: 10px;}
+.social_links a>img{max-height:30px;max-width:30px;overflow:hidden;}
+img[alt="github"]{max-height: 30px;
+max-width: 30px;}
+
+[data-toggle="collapse"]{display:block; margin-bottom: 0; background-color:#383838; color:#ffffff;padding:10px; border:1px solid #878787;cursor: pointer;}
+[data-toggle="collapse"]:after , [data-toggle="collapse"].collapsed:after{display:inline-block;color: #ffffff;font-size:18px; margin-left:10px;float:right;}
+[data-toggle="collapse"]:after {content:'\25BC';}
+[data-toggle="collapse"].collapsed:after {content:'\25c0';}
+
+
+.post .meta .tags {padding:0;}
+.post .meta .tags li {display:inline-block; float:left; padding:5px; margin:7px 14px 7px 0; background-color:#3c3c3c; color:#ffffff; cursor: pointer;}
+
+
+body>header, body>article, body>section{max-width: 1000px;margin-left: auto;margin-right: auto;}
+
+@media screen and (max-width: 667px)  {
+    .social_links {float: none;position: relative;top: -10px;left: 0px;}
+}

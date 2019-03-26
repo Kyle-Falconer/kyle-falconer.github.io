@@ -9,28 +9,25 @@
       <link href="//fonts.googleapis.com/css?family=Ubuntu+Mono:400italic,400,700italic,700" rel="stylesheet" type="text/css">
 
       <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
-      <link rel="stylesheet" href="http://www.kylefalconercodes.com/styles/pure-base-grids.css">
-      <link rel="stylesheet" href="http://www.kylefalconercodes.com/styles/base.css" media="all" />
-
-
+      <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/pure-base-grids.css">
+      <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/base.css" media="all" />
 
   </head>
   <body>
     <header class="pure-g-r">
       <h1 class="pure-u-1" id="siteTitle">Kyle Falconer Codes</h1>
       <nav class="social_links">
-          <a href="//github.com/Kyle-Falconer" class="github" target="_blank"><img src="http://www.kylefalconercodes.com/images/GitHub-Mark-64px.png" alt="github"/></a>
-          <a href="//stackoverflow.com/users/940217/netinept" class="stackoverflow" target="_blank"><img src="http://www.kylefalconercodes.com/images/so-icon.png" alt="stackoverflow"/></a>
-          <a href="//www.linkedin.com/pub/kyle-falconer/b/291/312/" class="linkedin" target="_blank"><img src="http://www.kylefalconercodes.com/images/InBug-60px-TM.png" alt="LinkedIn"/></a>      
-          <a href="//www.facebook.com/kfalconer" class="facebook" target="_blank"><img src="http://www.kylefalconercodes.com/images/FB-f-Logo__blue_72.png" alt="facebook"/></a>
-          <a href="//twitter.com/pereclies" class="twitter" target="_blank"><img src="http://www.kylefalconercodes.com/images/Twitter_logo_blue.png" alt="twitter"/></a>
-          <a href="//google.com/+KyleFalconer1" class="gplus" target="_blank"><img src="http://www.kylefalconercodes.com/images/gplus-64.png" alt="google plus"/></a>
-          <a href="//steamcommunity.com/profiles/76561197995071521/" class="steam" target="_blank"><img src="http://www.kylefalconercodes.com/images/Steam_logo.png" alt="steam"/></a>
+          <a href="//github.com/Kyle-Falconer" class="github" target="_blank"><img src="{{ site.baseurl }}/assets/img/GitHub-Mark-64px.png" alt="github"/></a>
+          <a href="//stackoverflow.com/users/940217/netinept" class="stackoverflow" target="_blank"><img src="{{ site.baseurl }}/assets/img/so-icon.png" alt="stackoverflow"/></a>
+          <a href="//www.linkedin.com/pub/kyle-falconer/b/291/312/" class="linkedin" target="_blank"><img src="{{ site.baseurl }}/assets/img/InBug-60px-TM.png" alt="LinkedIn"/></a>      
+          <a href="//www.facebook.com/kfalconer" class="facebook" target="_blank"><img src="{{ site.baseurl }}/assets/img/FB-f-Logo__blue_72.png" alt="facebook"/></a>
+          <a href="//twitter.com/pereclies" class="twitter" target="_blank"><img src="{{ site.baseurl }}/assets/img/Twitter_logo_blue.png" alt="twitter"/></a>
+          <a href="//steamcommunity.com/profiles/76561197995071521/" class="steam" target="_blank"><img src="{{ site.baseurl }}/assets/img/Steam_logo.png" alt="steam"/></a>
       </nav>
       <nav id="site_nav" class="pure-u-1">
-          <a href="http://www.kylefalconercodes.com/index.html">home</a>
-          <a href="http://www.kylefalconercodes.com/about.html">about</a>
-          <a href="http://blog.kylefalconercodes.com/" class="selected">blog</a>
+        {% for item in site.data.pages.toc %}
+          <a href="{{ item.url }}" class="{% if item.url == page.url %}selected{% endif %}">{{ item.page }}</a>
+        {% endfor %}
       </nav>
     </header>
   
