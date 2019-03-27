@@ -1,6 +1,7 @@
-name: Kyle Falconer Codes
+title: Kyle Falconer Codes
 description: Personal website for Kyle Falconer
 url: http://kylefalconercodes.com
+encoding: utf-8
 highlighter: rouge
 markdown: kramdown
 kramdown:
@@ -13,3 +14,5 @@ defaults:
       path: "assets/img"
     values:
       image: true
+plugins:
+  - "jekyll-github-metadata"

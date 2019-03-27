@@ -4,12 +4,13 @@ permalink: /about/
 title:  "About"
 ---
 
+This website exists as a portfolio of my imprint on the internet and the Computer Science community.
 
-This website exists as a portfolio of my imprint on the internet and the Computer Science community. I am expected to graduate in the December 2014 with a Bachelor of Science, Computer Science, and am currently seeking an internship for the Summer of 2014 and also a full-time position as a Software Engineer post-graduation.
+I am a software developer for Amazon, previously worked for [VTA](http://www.vta.org/) and IBM and graduated in 2014 with a Bachelor of Science, Computer Science from Missouri State University.
 
-I am accustomed to working on a team using agile development methods and have modified and maintained projects with upwards of 10,000 lines of code.
+[download r&eacute;sum&eacute;]({{ site.baseurl }}/assets/img/KyleFalconerResume.pdf) 
+![pdf]({{ site.baseurl }}/assets/img/pdficon_large.png)
 
-[download r&eacute;sum&eacute;]({{ site.baseurl }}/assets/static/KyleFalconerResume.pdf)
 
 ## Achievements
 
@@ -17,3 +18,6 @@ I am accustomed to working on a team using agile development methods and have mo
 * Participated in the ACM Regional Programming Contest in 2012.
 * Earned Eagle Scout rank in 2004
 * Finished the 2007 Go! St. Louis marathon
+
+
+[I also do photography](https://kylefalconer.com/)
