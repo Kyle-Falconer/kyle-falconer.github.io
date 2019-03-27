@@ -30,6 +30,3 @@ Features include:
 
 Community-maintained drivers for the DYMO LabelWriter printers. DYMO no longer supports Linux, so this is a fork of the official [DYMO SDK for Linux](http://www.dymo.com/en-US/dymo-label-sdk-and-cups-drivers-for-linux-dymo-label-sdk-cups-linux-p--1), updated so that it compiles with CUPS version 2 or higher.
 
-<script>
-	var github_content={{ site.github | jsonify }};
-</script>

@@ -8,11 +8,8 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
-
 defaults:
   - scope:
       path: "assets/img"
     values:
       image: true
-plugins:
-  - "jekyll-github-metadata"
