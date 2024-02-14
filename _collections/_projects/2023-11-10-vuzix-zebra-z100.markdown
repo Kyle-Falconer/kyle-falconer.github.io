@@ -13,7 +13,7 @@ Over the course of a couple months, I developed an application to demonstrate wh
 
 Initially conceived as a tech demo to validate the concept, the project rapidly expanded into a fully-featured warehouse picking application to highlight how the Z100 Smart Glasses could be used to improve safety and speed in the warehouse.
 
-Implemented in Kotlin using the latest best practices, [Zebra's DataWedge API][4], the [Vuzix Ultralite SDK][5] and backed by a [state machine](https://github.com/Tinder/StateMachine) to model the picking flow, this app rapidly went through several rounds of iterations between myself, Vuzix’s Software Director, the CEO, and industry experts. The result of this collaboration and rapid prototyping resulted in a polished demonstration of the Z100 Smart Glasses and was demoed at CES 2024.
+Implemented in Kotlin using the latest best practices, [Zebra's DataWedge API][4], the [Vuzix Ultralite SDK][5] and backed by a [state machine](https://github.com/Tinder/StateMachine) to model the picking flow, this app rapidly went through several rounds of iterations between myself, Vuzix’s Software Director, the CEO, and industry experts. The outcome of this collaboration and rapid prototyping resulted in a polished demonstration of the Z100 Smart Glasses and was demoed at CES 2024.
 
 
 [1]: https://www.zebra.com/us/en/support-downloads/mobile-computers/handheld/tc52.html
