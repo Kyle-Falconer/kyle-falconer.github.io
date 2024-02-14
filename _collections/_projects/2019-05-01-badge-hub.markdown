@@ -1,0 +1,21 @@
+---
+layout: project_feat
+title:  "BadgeHub"
+author: Kyle Falconer
+date:   2019-05-01
+tags: [Software, Python, Raspberry Pi, Dymo]
+feature_img: nametag_web.gif
+feature_img_alt: "nametag creation"
+project_timeframe: "February 2019 - December 2019"
+---
+
+
+Badge printing application for Raspberry Pi that logs user information such as name and email and prints a name badge and QR code associated with that information.
+
+Features include:
+* DYMO LabelWriter integration
+* Google Sheets upload
+* NFC reader integration
+* full customizability with the administration page
+
+[Check out the BadgeHub project on GitHub](https://github.com/codeforsanjose/BadgeHub).

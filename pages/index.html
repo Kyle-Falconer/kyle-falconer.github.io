@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /
+title:  "Kyle Falconer Codes - Project Highlights"
+---
+
+
+
+<article class="pure-g-r">
+    <h1 class="pure-u-1" itemprop="name">Project Highlights</h1>
+</article>
+
+
+{% assign projects = site.projects | sort: 'date' | reverse %}
+{% for project in projects %}
+  {{ project }}
+{% endfor %}
