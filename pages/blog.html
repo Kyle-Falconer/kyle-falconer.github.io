@@ -13,8 +13,9 @@ permalink: /blog/
 
   <section class="pure-u-1">
     <ul class="posts">
-		{% for post in site.posts %}
-		  <li><span>{{ post.date | date_to_string }}</span> – <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% assign blogposts = site.blog | sort: 'date' | reverse %}
+		{% for post in blogposts %}
+			<li><span>{{ post.date | date_to_string }}</span> &#8212; <a href="{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}
 	</ul>
   </section>

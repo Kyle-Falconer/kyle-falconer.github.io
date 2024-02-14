@@ -15,5 +15,7 @@ defaults:
       image: true
 collections_dir: _collections
 collections:
+  blog:
+    output: true
   projects:
     sort_by: date
