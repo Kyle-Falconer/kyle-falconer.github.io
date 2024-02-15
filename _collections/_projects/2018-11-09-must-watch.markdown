@@ -3,9 +3,9 @@ layout: project_feat
 title:  "Must Watch (Android)"
 author: Kyle Falconer
 date:   2018-11-09
-tags: [Software, C++, Raspberry Pi, Alexa, Accessibility]
+tags: [Software, Android, Kotlin, Hobby]
 feature_img: fma_detailed_466.png
-feature_img_alt: "Alexa Captioning"
+feature_img_alt: "Full Mead Alchemist logo"
 project_timeframe: "February 2019 - December 2019"
 ---
 

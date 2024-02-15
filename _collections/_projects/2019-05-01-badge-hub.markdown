@@ -3,7 +3,7 @@ layout: project_feat
 title:  "BadgeHub"
 author: Kyle Falconer
 date:   2019-05-01
-tags: [Software, Python, Raspberry Pi, Dymo]
+tags: [Software, Python, Raspberry Pi, Dymo, Hobby, Code For San Jose]
 feature_img: nametag_web.gif
 feature_img_alt: "nametag creation"
 project_timeframe: "February 2019 - December 2019"

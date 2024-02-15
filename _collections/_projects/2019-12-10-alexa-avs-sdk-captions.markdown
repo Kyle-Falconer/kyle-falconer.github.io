@@ -3,7 +3,7 @@ layout: project_feat
 title:  "Alexa Captions - Alexa Voice Service Device SDK (AVS SDK)"
 author: Kyle Falconer
 date:   2019-12-10
-tags: [Software, C++, Raspberry Pi, Alexa, Accessibility]
+tags: [Software, C++, Raspberry Pi, Alexa, Accessibility, Professional]
 feature_img: Alexa_Logo_RGB_BLUE._TTH_.png
 feature_img_alt: "Alexa Captioning"
 project_timeframe: "February 2019 - December 2019"

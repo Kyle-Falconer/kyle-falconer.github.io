@@ -3,7 +3,7 @@ layout: project_feat
 title:  "Solder Fume Extractor"
 author: Kyle Falconer
 date:   2024-01-31
-tags: [3D Printing, CAD, Maker, Fusion 360]
+tags: [3D Printing, CAD, Maker, Fusion 360, Hobby]
 feature_img: solder_fume_extractor_render_front.png
 feature_img_alt: "fume extractor render"
 project_timeframe: "December 2023 - January 2024"

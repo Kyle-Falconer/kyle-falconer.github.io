@@ -3,7 +3,7 @@ layout: project_feat
 title:  "Frequent Flyers feature for Hopper"
 author: Kyle Falconer
 date:   2022-01-10
-tags: [Software, Android, Kotlin, Java]
+tags: [Software, Android, Kotlin, Java, Professional]
 feature_img: Hopper-Logo-Horizontal_Coral.svg
 feature_img_alt: "Hopper logo"
 project_timeframe: "January 2022 - March 2022"

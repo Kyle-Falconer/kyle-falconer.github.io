@@ -3,7 +3,7 @@ layout: project_feat
 title:  "Vuzix File Browser - Vuzix Smart Glasses"
 author: Kyle Falconer
 date:   2023-08-01
-tags: [Software, Android, AOSP, Java, Kotlin]
+tags: [Software, Android, AOSP, Java, Kotlin, Professional]
 feature_img: Product_Image_M400_1.webp
 feature_img_alt: "Vuzix M400 Smart Glasses"
 project_timeframe: "November 2022 - August 2023"

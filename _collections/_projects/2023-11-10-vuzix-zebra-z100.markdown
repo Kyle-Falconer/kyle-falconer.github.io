@@ -3,7 +3,7 @@ layout: project_feat
 title:  "Zebra Scanner Demo for Z100 - Vuzix Smart Glasses"
 author: Kyle Falconer
 date:   2023-11-10
-tags: [Software, Android, AOSP, Kotlin, Zebra, BLE]
+tags: [Software, Android, AOSP, Kotlin, Zebra, BLE, Professional]
 feature_img: Z100-x-Zebra.png
 feature_img_alt: "Zebra TC52"
 project_timeframe: "September 2023 - November 2023"
