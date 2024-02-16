@@ -6,11 +6,7 @@ layout: default
   <div class="pure-u-1 meta">
     <time datetime="{{ page.date }}" itemprop="dateCreated">{{ page.date | date_to_string }}</time>
     <span class="author" itemprop="author">by 
-    {% if page.author-google-plus %}
-      <a href="{{ page.author-google-plus }}?rel=author">{{ page.author }}</a>
-    {% else %}
       {{ page.author }}
-    {% endif %}
     </span>    
     <ul class="tags">
       {% for tag in page.tags %}
