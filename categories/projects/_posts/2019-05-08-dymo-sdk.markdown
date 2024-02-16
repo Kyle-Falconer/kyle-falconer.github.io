@@ -1,0 +1,20 @@
+---
+layout: project_feat
+title:  "DYMO SDK for Linux"
+author: Kyle Falconer
+date:   2019-05-08
+tags: [Software, Python, Raspberry Pi, Dymo, CUPS, Hobby]
+feature_img: dymo_labelwriter_450.webp
+feature_img_alt: "DYMO LabelWriter 450"
+project_timeframe: "February 2019 - April 2019"
+---
+
+
+[![CircleCI](https://circleci.com/gh/Kyle-Falconer/DYMO-SDK-for-Linux/tree/master.svg?style=svg)](https://circleci.com/gh/Kyle-Falconer/DYMO-SDK-for-Linux/tree/master)
+
+Community-maintained drivers for the DYMO LabelWriter printers. DYMO no longer supports Linux, so this is a fork of the official [DYMO SDK for Linux](http://www.dymo.com/en-US/dymo-label-sdk-and-cups-drivers-for-linux-dymo-label-sdk-cups-linux-p--1), updated so that it compiles with CUPS version 2 or higher.
+
+
+[Check out the DYMO SDK for Linux on GitHub](https://github.com/Kyle-Falconer/DYMO-SDK-for-Linux).
+
+<!--end_excerpt-->
