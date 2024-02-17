@@ -23,7 +23,7 @@ I am a senior-level software developer who previously worked for [Vuzix][4], [Ho
 [I also do photography][1].
 
 
-## About this website
+## This Website
 
 [The source for this website is available on GitHub][2]. It's implemented as a static website, built using [Jekyll][3] and deployed to [GitHub Pages][9] using [Netlify][10].
 
