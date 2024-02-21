@@ -21,5 +21,3 @@ Features include:
 [Check out the BadgeHub project on GitHub](https://github.com/codeforsanjose/BadgeHub).
 
 <!--end_excerpt-->
-
-THIS IS NOT PART OF THE EXCERPT
